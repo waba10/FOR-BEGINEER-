@@ -1,2 +1,5 @@
 # FOR-BEGINEER-
-JS day 1 
+
+https://roadmap.sh/projects/js-greeting-builder
+
+JS day 1
