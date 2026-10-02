@@ -1,0 +1,2 @@
+# FOR-BEGINEER-
+JS day 1 
